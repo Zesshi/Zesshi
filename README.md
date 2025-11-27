@@ -19,19 +19,21 @@ company: Swiss Post
 fields_of_interests:
   [
     "Web Development",
+    "Security",
     "Data Science",
     "DevSecOps",
-    "Security"
+    "Scripting"
   ]
 technical_background:
   [
     "IT Coach",
-    "Full Stack Developer"
+    "Full Stack Developer",
     "DevOps Solution Engineer"
   ]
-currently_learning: ["SIEM, SOAR, and anything to do with Cyber Security"]
-2025 Goals: ["Specialist Certificate in Cyber Security"]
+currently_learning: ["SIEM", "SOAR", "Anything to do with Cyber Security"]
+current_projects: ["Shiny Tracker Website for Pokemon collecting", "Retroflag GPI Case 2"] 
 hobbies: ["Gaming", "Motorcycle", "HackTheBox"]
+2025 Goals: ["Specialist Certificate in Cyber Security"]
 ```
   
 ## Stuff I worked with over the years:
