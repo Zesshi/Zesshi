@@ -8,11 +8,12 @@ located_in: Bern, Switzerland
 current_job: IT Coach
 education:
   [
-    "Application Developer with Federal Diploma of Vocational Education and Training",
+    "Cyber Security Specialist with Federal Diploma",
     "SVEB-Certificated Trainer",
     "CompTia Security+",
     "Azure Fundamentals AZ-900",
-    "Azure AI Fundamentals AI-900"
+    "Azure AI Fundamentals AI-900",
+    "Application Developer with Federal Diploma of Vocational Education and Training"
   ]
 company: Swiss Post
 
@@ -33,7 +34,7 @@ technical_background:
 currently_learning: ["SIEM", "SOAR", "Anything to do with Cyber Security"]
 current_projects: ["Shiny Tracker Website for Pokemon collecting", "Retroflag GPI Case 2"] 
 hobbies: ["Gaming", "Motorcycle", "HackTheBox"]
-2025 Goals: ["Specialist Certificate in Cyber Security"]
+2025 Goals: [""]
 ```
   
 ## Stuff I worked with over the years:
