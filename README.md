@@ -34,7 +34,7 @@ technical_background:
 currently_learning: ["SIEM", "SOAR", "Anything to do with Cyber Security"]
 current_projects: ["Shiny Tracker Website for Pokemon collecting", "Retroflag GPI Case 2"] 
 hobbies: ["Gaming", "Motorcycle", "HackTheBox"]
-2025 Goals: [""]
+2026 Goals: ["Certified Instructor with Federal Diploma"]
 ```
   
 ## Stuff I worked with over the years:
