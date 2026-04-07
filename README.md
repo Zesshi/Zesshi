@@ -32,7 +32,7 @@ technical_background:
     "DevOps Solution Engineer"
   ]
 currently_learning: ["SIEM", "SOAR", "Anything to do with Cyber Security"]
-current_projects: ["Shiny Tracker Website for Pokemon collecting", "Retroflag GPI Case 2"] 
+current_projects: ["Shiny Tracker Website for Pokemon collecting", "Retroflag GPI Case 2", "CyberSec Blog"] 
 hobbies: ["Gaming", "Motorcycle", "HackTheBox", "Making Music"]
 2026 Goals: ["Certified Instructor with Federal Diploma"]
 ```
