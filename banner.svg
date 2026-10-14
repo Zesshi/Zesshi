@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Michael Moser — Build. Secure. Enable.</title><desc id="desc">A futuristic terminal-inspired banner with a cyan and violet grid, subtle code, and Michael Moser's professional identity.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1424"/><stop offset=".58" stop-color="#10182B"/><stop offset="1" stop-color="#1B1432"/></linearGradient>
+ <linearGradient id="line" x1="0" x2="1"><stop stop-color="#38DDF6"/><stop offset="1" stop-color="#B78CFF"/></linearGradient>
+ <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#6E82BA" stroke-opacity=".12"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="14"/></filter>
+</defs>
+<rect width="1200" height="360" fill="url(#bg)"/>
+<rect width="1200" height="360" fill="url(#grid)"/>
+<circle cx="970" cy="145" r="125" fill="#8D5CF6" opacity=".15" filter="url(#glow)"/>
+<circle cx="870" cy="220" r="120" fill="#15D6F7" opacity=".10" filter="url(#glow)"/>
+<rect x="28" y="25" width="1144" height="310" rx="16" fill="none" stroke="#647499" stroke-opacity=".40"/>
+<rect x="28" y="25" width="1144" height="38" rx="16" fill="#182337"/>
+<rect x="28" y="47" width="1144" height="16" fill="#182337"/>
+<circle cx="52" cy="45" r="6" fill="#FF6B86"/><circle cx="74" cy="45" r="6" fill="#F5CB70"/><circle cx="96" cy="45" r="6" fill="#4AD6AC"/>
+<text x="600" y="49" fill="#8A9CB8" font-size="14" font-family="DejaVu Sans Mono,monospace" text-anchor="middle">zesshi@github: ~/profile</text>
+<text x="72" y="106" fill="#4FDDF3" font-size="16" font-family="DejaVu Sans Mono,monospace">$ whoami</text>
+<text x="70" y="166" fill="#F3F6FD" font-family="DejaVu Sans,sans-serif" font-size="57" font-weight="bold" letter-spacing="1">MICHAEL MOSER</text>
+<rect x="73" y="186" width="507" height="4" rx="2" fill="url(#line)"/>
+<text x="73" y="227" fill="#B8C8E5" font-family="DejaVu Sans Mono,monospace" font-size="19">BUILD  /  SECURE  /  ENABLE</text>
+<text x="73" y="275" fill="#73DFEF" font-family="DejaVu Sans Mono,monospace" font-size="15">Software engineering  ·  Cybersecurity  ·  Education</text>
+<text x="73" y="309" fill="#899BBB" font-family="DejaVu Sans Mono,monospace" font-size="14">BERN, SWITZERLAND   //   @Zesshi</text>
+<g fill="none" stroke="url(#line)" stroke-width="2" opacity=".75">
+<path d="M866 122l80-46 80 46v91l-80 46-80-46z"/>
+<path d="M946 76v183M866 122l80 47 80-47M866 213l80-44 80 44" opacity=".6"/>
+<circle cx="946" cy="168" r="52" stroke-dasharray="4 9"/>
+<circle cx="946" cy="168" r="19"/>
+<path d="M946 137v62M915 168h62"/>
+</g>
+<text x="946" y="296" text-anchor="middle" fill="#8697B7" font-family="DejaVu Sans Mono,monospace" font-size="12">// always learning</text>
+</svg>
