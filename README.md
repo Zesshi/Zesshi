@@ -75,8 +75,6 @@ The companion frontend for the Cyber4CH case study.
 
 A team-based Python puzzle platform built with **Java 21, Spring Boot, Next.js, MySQL and WebSockets**. It includes team progress, authentication, live leaderboards and administration features. The deployment work spans **Azure App Service**, separate deployment slots and **GitHub Actions**.
 
-*Described here as engineering experience rather than linked as a public repository.*
-
 </details>
 
 ---
