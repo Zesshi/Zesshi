@@ -1,136 +1,146 @@
+<!-- Profile README for github.com/Zesshi. Keep assets/banner.svg committed alongside this file. -->
+
 <div align="center">
+  <img src="assets/banner.svg" alt="Michael Moser — Build. Secure. Enable. Software engineering, cybersecurity, education." width="100%" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:090014,50:18002B,100:001C2E&text=MICHAEL%20MOSER&fontColor=00F5FF&fontSize=54&fontAlignY=40&desc=SECURE.%20BUILD.%20TEACH.&descSize=19&descAlignY=60&stroke=FF2BD6&strokeWidth=2&animation=fadeIn" alt="Michael Moser — Secure. Build. Teach." />
+  <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Specialist;Full-Stack+Developer;IT+Coach+%40+Swiss+Post;Always+Learning%2C+Always+Building" alt="Animated introduction" />
-
-
-<p align="center">
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00F5FF?style=for-the-badge&labelColor=090014" alt="Cybersecurity" />
-<img src="https://img.shields.io/badge/BUILD-FULL--STACK-FF2BD6?style=for-the-badge&labelColor=090014" alt="Full-stack development" />
-<img src="https://img.shields.io/badge/BASED%20IN-BERN%2C%20SWITZERLAND-7A2CFF?style=for-the-badge&labelColor=090014" alt="Bern, Switzerland" />
-</p>
-
+  <a href="https://github.com/Zesshi?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/EXPLORE-PROJECTS-38DDF6?style=for-the-badge&labelColor=101827" /></a>
+  <a href="https://github.com/Zesshi?tab=followers"><img alt="GitHub profile" src="https://img.shields.io/badge/GITHUB-@ZESSHI-B78CFF?style=for-the-badge&labelColor=101827&logo=github&logoColor=white" /></a>
+  <img alt="Location" src="https://img.shields.io/badge/BASED_IN-BERN,_CH-4AD6AC?style=for-the-badge&labelColor=101827" />
 </div>
 
-<h2>👋 About Me</h2>
+<br />
 
-I'm Michael, an IT Coach at Swiss Post, a full-stack developer, and a Cyber Security Specialist with a Swiss Federal Diploma based in Bern, Switzerland.
-- 🔐 Passionate about cybersecurity, especially security operations, threat detection, SIEM and incident response.
-- 💻 I enjoy building full-stack applications with Java, Spring Boot, React and Next.js.
-- ☁️ I work with Microsoft Azure, cloud deployments and CI/CD pipelines.
-- 🎓 I teach and mentor the next generation of application developers.
-- 🧪 I like learning by building, breaking, troubleshooting and improving things.
-- 🎮 Outside of tech: gaming, motorcycles, Hack The Box and cooking.
-🛠️ Tech Stack
-<p align="center"><strong>Languages</strong></p>
+### `> hello_world`
 
-<p align="center">
+I'm **Michael**, an IT Coach at **Swiss Post**, a full-stack developer, and a **Cyber Security Specialist with a Swiss Federal Diploma**.
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C sharp" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+I build software, explore how to secure it, and help the next generation of developers understand what's happening under the hood. My interests sit at the intersection of **software engineering**, **security operations**, and **hands-on technical education**.
 
-</p>
+- **Build** — Java / Spring Boot backends, React / Next.js frontends, APIs and practical tools.
+- **Secure** — Threat detection, SIEM / SOAR, identity, incident response and application security.
+- **Enable** — Teaching programming, Git, infrastructure and problem-solving through real projects.
 
-<p align="center"><strong>Frameworks &amp; Databases</strong></p>
+---
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
-
-</p>
-
-<p align="center"><strong>Cloud, DevOps &amp; Tools</strong></p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=icloud&logoColor=white" alt="Microsoft Azure" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-
-</p>
-
-<p align="center"><strong>Security &amp; Learning</strong></p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Security_Operations-090014?style=for-the-badge&labelColor=7A2CFF" alt="Security Operations" />
-<img src="https://img.shields.io/badge/SIEM_%26_SOAR-090014?style=for-the-badge&labelColor=7A2CFF" alt="SIEM and SOAR" />
-<img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
-
-</p>
-
-<h2>🚀 Featured Work</h2>
+### `> featured_projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🧩 HackTheInka</h3>
-<p>A team-based Python puzzle platform with authentication, leaderboards, real-time updates and administration features.</p>
-<sub>Java 21 · Spring Boot · Next.js · MySQL · WebSockets</sub>
+
+#### [Shiny Tracker](https://github.com/Zesshi/Shiny-Tracker)
+
+A tracker for Pokémon shiny collecting. A personal web project where interface design and practical functionality meet.
+
+`TypeScript` · `Web application`
+
 </td>
 <td width="50%" valign="top">
-<h3>☁️ Cloud & DevOps</h3>
-<p>Deploying full-stack applications to Azure, maintaining development and production environments, and automating deployments with GitHub Actions.</p>
-<sub>Microsoft Azure · CI/CD · App Service · GitHub Actions</sub>
+
+#### [BetterNassi](https://github.com/Zesshi/BetterNassi)
+
+A project centred around Nassi–Shneiderman diagrams and structured programming concepts.
+
+`TypeScript` · `Developer tooling`
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🎓 Developer Education</h3>
-<p>Designing hands-on programming exercises and learning experiences in software development, Git, networking and server services.</p>
-<sub>Java · Python · Git · Windows · Linux</sub>
+
+#### [Cyber4CH — Backend](https://github.com/Zesshi/ICT-Campus-Cyber4CH-Backend-Fallstudie)
+
+Backend code from an ICT-Campus cybersecurity case-study project.
+
+`Java` · `Backend`
+
 </td>
 <td width="50%" valign="top">
-<h3>🔐 Cybersecurity</h3>
-<p>Growing my expertise in security operations, threat detection, identity and access management, and secure application design.</p>
-<sub>Security Operations · IAM · SIEM · Application Security</sub>
+
+#### [Cyber4CH — Frontend](https://github.com/Zesshi/ICT-Campus-Cyber4CH-Frontend-Fallstudie)
+
+The companion frontend for the Cyber4CH case study.
+
+`JavaScript` · `Frontend`
+
 </td>
 </tr>
 </table>
 
-<h2>🎓 Certifications & Qualifications</h2>
+<details>
+<summary><b>More engineering work: HackTheInka</b></summary>
+<br />
 
-- 🛡️ Cyber Security Specialist — Swiss Federal Diploma
-- 🔐 CompTIA Security+
-- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
-- 🤖 Microsoft Certified: Azure AI Fundamentals (AI-900)
-- 👨‍🏫 SVEB-Certified Trainer
-- 💻 Application Developer — Swiss Federal VET Diploma
-<h2>⚡ SYSTEM DASHBOARD</h2>
+A team-based Python puzzle platform built with **Java 21, Spring Boot, Next.js, MySQL and WebSockets**. It includes team progress, authentication, live leaderboards and administration features. The deployment work spans **Azure App Service**, separate deployment slots and **GitHub Actions**.
+
+*Described here as engineering experience rather than linked as a public repository.*
+
+</details>
+
+---
+
+### `> toolkit`
+
+**Languages & core development**
+
+![Java](https://img.shields.io/badge/Java-172030?style=flat-square&logo=openjdk&logoColor=F5A623)
+![Python](https://img.shields.io/badge/Python-172030?style=flat-square&logo=python&logoColor=71B7EF)
+![TypeScript](https://img.shields.io/badge/TypeScript-172030?style=flat-square&logo=typescript&logoColor=4CA5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-172030?style=flat-square&logo=javascript&logoColor=F5DC69)
+![C#](https://img.shields.io/badge/C%23-172030?style=flat-square&logo=dotnet&logoColor=B78CFF)
+![HTML5](https://img.shields.io/badge/HTML5-172030?style=flat-square&logo=html5&logoColor=FF9B78)
+![CSS3](https://img.shields.io/badge/CSS3-172030?style=flat-square&logo=css&logoColor=8ECDFB)
+
+**Frameworks & data**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-172030?style=flat-square&logo=springboot&logoColor=9BD785)
+![React](https://img.shields.io/badge/React-172030?style=flat-square&logo=react&logoColor=38DDF6)
+![Next.js](https://img.shields.io/badge/Next.js-172030?style=flat-square&logo=nextdotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-172030?style=flat-square&logo=mysql&logoColor=7BBDD4)
+![Node.js](https://img.shields.io/badge/Node.js-172030?style=flat-square&logo=nodedotjs&logoColor=9DD388)
+
+**Cloud, delivery & security**
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-172030?style=flat-square&logo=azure&logoColor=54B7FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-172030?style=flat-square&logo=githubactions&logoColor=9BC5FF)
+![Git](https://img.shields.io/badge/Git-172030?style=flat-square&logo=git&logoColor=F08D77)
+![Linux](https://img.shields.io/badge/Linux-172030?style=flat-square&logo=linux&logoColor=F6DC83)
+![Docker](https://img.shields.io/badge/Docker-172030?style=flat-square&logo=docker&logoColor=83CAFF)
+![Postman](https://img.shields.io/badge/Postman-172030?style=flat-square&logo=postman&logoColor=F4A47F)
+![Security](https://img.shields.io/badge/Security_Operations-172030?style=flat-square&logo=shield&logoColor=4AD6AC)
+
+---
+
+### `> credentials`
+
+| Qualification | Area |
+| :-- | :-- |
+| **Cyber Security Specialist — Swiss Federal Diploma** | Cybersecurity |
+| **CompTIA Security+** | Security fundamentals |
+| **Microsoft Certified: Azure Fundamentals (AZ-900)** | Cloud |
+| **Microsoft Certified: Azure AI Fundamentals (AI-900)** | Cloud & AI |
+| **SVEB Certified Trainer** | Adult education |
+| **Application Developer — Swiss Federal VET Diploma** | Software engineering |
+
+---
+
+### `> currently_exploring`
+
+```text
+[ SECURITY ]  Threat detection · SIEM / SOAR · Incident response
+[ ENGINEER ]  Secure software · Cloud infrastructure · DevSecOps
+[ EDUCATE  ]  Better ways to teach through hands-on challenges
+```
+
+### `> outside_the_terminal`
+
+Gaming · Motorcycles · Hack The Box · Cooking
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Zesshi&amp;show_icons=true&amp;hide_border=true&amp;bg_color=090014&amp;title_color=00F5FF&amp;text_color=E6F1FF&amp;icon_color=FF2BD6&amp;rank_icon=github" alt="GitHub statistics" />
-</td>
-<td width="50%" align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zesshi&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=090014&amp;title_color=00F5FF&amp;text_color=E6F1FF" alt="Most used languages in public repositories" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zesshi&amp;background=090014&amp;ring=00F5FF&amp;fire=FF2BD6&amp;currStreakLabel=00F5FF&amp;sideLabels=E6F1FF&amp;currStreakNum=E6F1FF&amp;sideNums=E6F1FF&amp;dates=8B93A7&amp;border=7A2CFF" alt="GitHub contribution streak" />
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:7A2CFF,100:FF2BD6" alt="" />
-
-SECURE // BUILD // TEACH // REPEAT
+  <br />
+  <sub><code>BUILD // SECURE // ENABLE // REPEAT</code></sub>
+  <br /><br />
+  <a href="https://github.com/Zesshi?tab=repositories">Explore the repositories ↗</a>
 </div>
